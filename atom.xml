@@ -4,7 +4,7 @@
   <title><![CDATA[wajava]]></title>
   <link href="http://wajava.github.io/atom.xml" rel="self"/>
   <link href="http://wajava.github.io/"/>
-  <updated>2014-12-02T17:27:58+09:00</updated>
+  <updated>2014-12-02T18:05:17+09:00</updated>
   <id>http://wajava.github.io/</id>
   <author>
     <name><![CDATA[wajava]]></name>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Second Post for Test]]></title>
-    <link href="http://wajava.github.io/blog/2014/12/02/second-post-for-test/"/>
+    <link href="http://wajava.github.io/blog/20141202/second-post-for-test/"/>
     <updated>2014-12-02T16:11:25+09:00</updated>
-    <id>http://wajava.github.io/blog/2014/12/02/second-post-for-test</id>
+    <id>http://wajava.github.io/blog/20141202/second-post-for-test</id>
     <content type="html"><![CDATA[<p>可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post for Test]]></title>
-    <link href="http://wajava.github.io/blog/2014/12/02/first-post-for-test/"/>
+    <link href="http://wajava.github.io/blog/20141202/first-post-for-test/"/>
     <updated>2014-12-02T14:49:25+09:00</updated>
-    <id>http://wajava.github.io/blog/2014/12/02/first-post-for-test</id>
+    <id>http://wajava.github.io/blog/20141202/first-post-for-test</id>
     <content type="html"><![CDATA[<p>可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
 ]]></content>
   </entry>
