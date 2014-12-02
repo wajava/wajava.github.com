@@ -4,7 +4,7 @@
   <title><![CDATA[Categorie:test | wajava]]></title>
   <link href="http://wajava.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://wajava.github.io/"/>
-  <updated>2014-12-02T18:12:51+09:00</updated>
+  <updated>2014-12-02T18:20:02+09:00</updated>
   <id>http://wajava.github.io/</id>
   <author>
     <name><![CDATA[wajava]]></name>
@@ -24,6 +24,15 @@
 $$
 f&#8217;\left( x\right) = \lim _{x\rightarrow 0}\dfrac {f\left( x+\Delta x\right) - f\left( x\right)}{\Delta x}
 $$</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post for Test]]></title>
+    <link href="http://wajava.github.io/blog/20141202/first-post-for-test/"/>
+    <updated>2014-12-02T14:49:25+09:00</updated>
+    <id>http://wajava.github.io/blog/20141202/first-post-for-test</id>
+    <content type="html"><![CDATA[<p>可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
 ]]></content>
   </entry>
   
