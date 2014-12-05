@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://wajava.github.com/sitemap.xml 
+Sitemap: http://wajava.github.io/sitemap.xml 

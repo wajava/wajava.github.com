@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[wajava]]></title>
-  <link href="http://wajava.github.com/atom.xml" rel="self"/>
-  <link href="http://wajava.github.com/"/>
-  <updated>2014-12-05T13:39:06+09:00</updated>
-  <id>http://wajava.github.com/</id>
+  <link href="http://wajava.github.io/atom.xml" rel="self"/>
+  <link href="http://wajava.github.io/"/>
+  <updated>2014-12-05T23:27:06+09:00</updated>
+  <id>http://wajava.github.io/</id>
   <author>
     <name><![CDATA[wajava]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Second Post for Test]]></title>
-    <link href="http://wajava.github.com/blog/20141202/second-post-for-test/"/>
+    <link href="http://wajava.github.io/blog/20141202/second-post-for-test/"/>
     <updated>2014-12-02T16:11:25+09:00</updated>
-    <id>http://wajava.github.com/blog/20141202/second-post-for-test</id>
+    <id>http://wajava.github.io/blog/20141202/second-post-for-test</id>
     <content type="html"><![CDATA[<p>可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
 
 <p>公式测试：
@@ -29,22 +29,10 @@ $$</p>
   
   <entry>
     <title type="html"><![CDATA[First Post for Test]]></title>
-    <link href="http://wajava.github.com/blog/20141202/first-post-for-test/"/>
+    <link href="http://wajava.github.io/blog/20141202/first-post-for-test/"/>
     <updated>2014-12-02T14:49:25+09:00</updated>
-    <id>http://wajava.github.com/blog/20141202/first-post-for-test</id>
+    <id>http://wajava.github.io/blog/20141202/first-post-for-test</id>
     <content type="html"><![CDATA[<p>可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
-
-<p>继续阅读的测试用内容。。。。。。。。。。。。。。可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
-
-<p>继续阅读的测试用内容。。。。。。。。。。。。。。可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
-
-<p>继续阅读的测试用内容。。。。。。。。。。。。。。可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
-
-<p>继续阅读的测试用内容。。。。。。。。。。。。。。可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
-
-<p>继续阅读的测试用内容。。。。。。。。。。。。。。可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
-
-<p>继续阅读的测试用内容。。。。。。。。。。。。。。</p>
 ]]></content>
   </entry>
   
