@@ -4,7 +4,7 @@
   <title><![CDATA[类别:test | wajava]]></title>
   <link href="http://wajava.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://wajava.github.com/"/>
-  <updated>2014-12-05T13:10:30+09:00</updated>
+  <updated>2014-12-05T13:12:21+09:00</updated>
   <id>http://wajava.github.com/</id>
   <author>
     <name><![CDATA[wajava]]></name>
@@ -33,6 +33,8 @@ $$</p>
     <updated>2014-12-02T14:49:25+09:00</updated>
     <id>http://wajava.github.com/blog/20141202/first-post-for-test</id>
     <content type="html"><![CDATA[<p>可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
+
+<p>继续阅读的测试用内容。。。。。。。。。。。。。。</p>
 ]]></content>
   </entry>
   
