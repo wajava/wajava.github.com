@@ -2,10 +2,10 @@
 <html>
 <head>
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <title>Hand Signaling</title>
+ <title>手动 Signaling</title>
 </head>
 <body>
-  Hand Signaling 2016<br />
+  手动 Signaling <br />
   <button type="button" onclick="startVideo();">Start Video</button>
   <button type="button" onclick="stopVideo();">Stop Video</button>
   &nbsp;
@@ -163,13 +163,13 @@
       if (evt.candidate) {
         console.log(evt.candidate);
 
-        // Trickle ICE の場合は、ICE candidateを相手に送る
-        // Vanilla ICE の場合には、何もしない
+        // Trickle ICE 时，ICE candidate发送给对方
+        // Vanilla ICE 时，什么都不做
       } else {
         console.log('empty ice event');
 
-        // Trickle ICE の場合は、何もしない
-        // Vanilla ICE の場合には、ICE candidateを含んだSDPを相手に送る
+        // Trickle ICE 时，什么都不做
+        // Vanilla ICE 时，包含ICE candidate的SDP发送给对方
         sendSdp(peer.localDescription);
       }
     };
@@ -231,8 +231,8 @@
     }).then(function() {
       console.log('setLocalDescription() succsess in promise');
 
-      // -- Trickle ICE の場合は、初期SDPを相手に送る -- 
-      // -- Vanilla ICE の場合には、まだSDPは送らない --
+      // -- Trickle ICE 时，初期的SDP发送给对方 -- 
+      // -- Vanilla ICE  时，不发送SDP --
       //sendSdp(peerConnection.localDescription);
     }).catch(function(err) {
       console.error(err);
@@ -267,8 +267,8 @@
     }).then(function() {
       console.log('setLocalDescription() succsess in promise');
 
-      // -- Trickle ICE の場合は、初期SDPを相手に送る -- 
-      // -- Vanilla ICE の場合には、まだSDPは送らない --
+      // -- Trickle ICE 时，初期的SDP发送给对方 -- 
+      // -- Vanilla ICE  时，不发送SDP --
       //sendSdp(peerConnection.localDescription);
     }).catch(function(err) {
       console.error(err);
