@@ -32,7 +32,8 @@ $$</p>
     <link href="http://wajava.github.io/blog/20141202/first-post-for-test/"/>
     <updated>2014-12-02T14:49:25+09:00</updated>
     <id>http://wajava.github.io/blog/20141202/first-post-for-test</id>
-    <content type="html"><![CDATA[<p>可以直接将自己写好的文章放到这个文件夹下面，当然请按照 yyyy-mm-dd-Post-Title.markdown 这样的文件格式命名，同时记得在文章前面添加元数据信息。</p>
+    <content type="html"><![CDATA[<p>测试WebRTC! 1. A/B 分别点击Start Video 2. A点击Connect 3. 复制A的SDP to send，粘贴到B的SDP to receive 4.点击B的
+ Receive remote SDP 5.复制B的SDP to send，粘贴到B的SDP to receive 6. 点击B的 Receive remote SDP， 视频开始 </p>
 ]]></content>
   </entry>
   
